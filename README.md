@@ -10,9 +10,7 @@ Source Notify is a software that allows you to control your Pull Request status 
   
 
 ## Pricing Plan
- ### FREE
-  
-  | Features  |  Free  |  $2.99/YEAR  |
+| Features  |  Free  |  $2.99/YEAR  |
 | ------------------- | ------------------- | ------------------- |
 |  CLIENT ACCOUNTS | - | ✅ |
 |  Github | ✅ | ✅ |
