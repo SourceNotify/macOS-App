@@ -11,17 +11,25 @@ Source Notify is a software that allows you to control your Pull Request status 
 
 ## Pricing Plan
  ### FREE
-  - Only able to connect a Github account
-  - One Filtered Repository for the Github account
-  - Only enables the 60 minutes auto-sync
-  - MOST IMPORTANT: Doesn't support development
   
-  ### <b>$2,99/YEAR</b> -> based on US Price
-  - One account per client (Github, Gitlab, Bitbucket)
-  - Unlimited Filtered Repositories
-  - You can choose between 10/30/45/60 auto or Manul sync
-  - Will include awesome features
-  - Supports the development
+  | Features  |  Free  |  $2.99/YEAR  |
+| ------------------- | ------------------- | ------------------- |
+|  CLIENT ACCOUNTS | - | ✅ |
+|  Github | ✅ | ✅ |
+|  Gitlab | ❌ | ✅ |
+|  BitBucket | ❌ | ✅ |
+|  **TIME SYNC** | - | ✅ |
+|  10min | ❌ | ✅ |
+|  30min | ❌ | ✅ |
+|  45min | ❌ | ✅ |
+|  60min | ✅ | ✅ |
+|  Manual | ❌ | ✅ |
+|  **FILTERED REPOS** | - | ✅ |
+|  Github | ✅ - 1 | ✅ |
+|  Gitlab | ❌ | ✅ |
+|  BitBucket | ❌ | ✅ |
+|  **FUTURE FEATURES** | MAYBE | ✅ |
+|  **SUPPORTS DEVELOPMENT** | ❌ | ✅ |
   
   
 ## Help
