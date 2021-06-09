@@ -1,4 +1,4 @@
-# Source Notify - macOS version
+![1-Intro_SN](https://user-images.githubusercontent.com/79530012/121367537-49e19380-c932-11eb-8b06-e5fa510cae18.jpg)
 
 ## Description
 Source Notify is a software that allows you to control your Pull Request status directly from your Desktop menu bar. Built with passion specially for those who work with <b>Git Clients<b/>.
@@ -25,6 +25,16 @@ Source Notify is a software that allows you to control your Pull Request status 
   
 ## Help
   This chapter is about explaning the icons you find in Source Notify app to allow you to quick understand what you are seeing.
+  
+  ### Team member Pull Request
+  #### Your comments/Threads
+  
+  ![myThreads](https://user-images.githubusercontent.com/79530012/121367752-7a293200-c932-11eb-8887-1f51350b1865.png) 
+  This symbol will show you the comments, for Github/Bitbucket, or threads, for Gitlab, that you did on this particular Pull Request. This will not show you the ammount of comments this Pull Request has, only the ones you did since they are the most important for you to control the status from a team member Pull Request.
+  
+  
+  
+
   
   
   
