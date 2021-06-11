@@ -101,7 +101,7 @@ Your consent to this Privacy Policy followed by Your submission of such informat
 The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
 
 # Disclosure of Your Personal Data
-Business Transactions
+## Business Transactions
 If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
 # Law enforcement
