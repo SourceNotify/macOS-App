@@ -4,7 +4,7 @@ Last updated June 13, 2021
 
 
 
-Source Notify is licensed to You (End-User) by Source Notify, located at __________, Leiria, __________ __________, Portugal (hereinafter: Licensor), for use only under the terms of this License Agreement.
+Source Notify is licensed to You (End-User) by Source Notify, located in Portugal (hereinafter: Licensor), for use only under the terms of this License Agreement.
 
 By downloading the Application from the Apple AppStore, and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement, and that You accept this License Agreement.
 
