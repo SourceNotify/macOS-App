@@ -17,7 +17,7 @@ All rights not expressly granted to You are reserved.
 
 ## 1. THE APPLICATION
 
-Source Notify (hereinafter: Application) is a piece of software created to Manage pull requests from Github, Gitlab and Bitbucket - and customized for Apple mobile devices. It is used to Checking Pull Requests status.
+Source Notify (hereinafter: Application) is a piece of software created to Manage pull requests from Github, Gitlab and Bitbucket - and customized for Apple devices. It is used to Checking Pull Requests status.
 
 
 ## 2. SCOPE OF LICENSE
@@ -116,13 +116,13 @@ Source Notify and the End-User acknowledge that Source Notify, and not Apple, is
 
 ## 11. "IN-APP" PURCHASES
 
-11.1 The Source Notify app offers a purchase option that allows a user to unlock all the features on the app by paying an annual fee. Payments will be processed through the App Store from which you originally downloaded the application. 
+11.1 The Application offers a purchase option that allows a user to unlock all the features on the app by paying an annual fee. Payments will be processed through the App Store from which you originally downloaded the application. 
 
 11.2 If you are under 18 then you must have your parents’ or guardians’ permission to make any In-App Purchases. By completing an In-App Purchase, you are confirming to us that you have any and all permission that may be necessary in order to allow you to make that In-App Purchase.
 
 11.3 In the unlikely event that we are unable to replace or repair the relevant In-App Purchase or are unable to do so within a reasonable period of time and without significant inconvenience to you, we will authorise the App Store Provider to refund you an amount up to the cost of the relevant In-App Purchase. Alternatively, if you wish to request a refund, you may do so by contacting the App Store Provider directly.
 
-11.4 You acknowledge and agree that all billing and transaction processes are handled by the App Store Provider from whose platform you downloaded Source-Notify and are governed by the App Store Provider's terms and conditions/EULA. If you have any payment related issues with In-App Purchases, then you need to contact the App Store Provider directly.
+11.4 You acknowledge and agree that all billing and transaction processes are handled by the App Store Provider from whose platform you downloaded the Application and are governed by the App Store Provider's terms and conditions/EULA. If you have any payment related issues with In-App Purchases, then you need to contact the App Store Provider directly.
 
 
 ## 12. LEGAL COMPLIANCE
