@@ -114,13 +114,23 @@ Source Notify and the End-User acknowledge that Source Notify, and not Apple, is
 
 (iii) claims arising under consumer protection, privacy, or similar legislation, including in connection with Your Licensed Application’s use of the HealthKit and HomeKit.
 
+## 11. "IN-APP" PURCHASES
 
-## 11. LEGAL COMPLIANCE
+11.1 The Source Notify app offers a purchase option that allows a user to unlock all the features on the app by paying an annual fee. Payments will be processed through the App Store from which you originally downloaded the application. 
+
+11.2 If you are under 18 then you must have your parents’ or guardians’ permission to make any In-App Purchases. By completing an In-App Purchase, you are confirming to us that you have any and all permission that may be necessary in order to allow you to make that In-App Purchase.
+
+11.3 In the unlikely event that we are unable to replace or repair the relevant In-App Purchase or are unable to do so within a reasonable period of time and without significant inconvenience to you, we will authorise the App Store Provider to refund you an amount up to the cost of the relevant In-App Purchase. Alternatively, if you wish to request a refund, you may do so by contacting the App Store Provider directly.
+
+11.4 You acknowledge and agree that all billing and transaction processes are handled by the App Store Provider from whose platform you downloaded Source-Notify and are governed by the App Store Provider's terms and conditions/EULA. If you have any payment related issues with In-App Purchases, then you need to contact the App Store Provider directly.
+
+
+## 12. LEGAL COMPLIANCE
 
 You represent and warrant that You are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and that You are not listed on any U.S. Government list of prohibited or restricted parties.
 
 
-## 12. CONTACT INFORMATION                  
+## 13. CONTACT INFORMATION                  
 
 For general inquiries, complaints, questions or claims concerning the licensed Application, please contact:
      
@@ -130,30 +140,30 @@ Portugal
 sourcenotify@gmail.com
 
 
-## 13. TERMINATION
+## 14. TERMINATION
 
 The license is valid until terminated by Source Notify or by You. Your rights under this license will terminate automatically and without notice from Source Notify if You fail to adhere to any term(s) of this license. Upon License termination, You shall stop all use of the Application, and destroy all copies, full or partial, of the Application.
 
 
-## 14. THIRD-PARTY TERMS OF AGREEMENTS AND BENEFICIARY
+## 15. THIRD-PARTY TERMS OF AGREEMENTS AND BENEFICIARY
 
 Source Notify represents and warrants that Source Notify will comply with applicable third-party terms of agreement when using licensed Application.
 
 In Accordance with Section 9 of the "Instructions for Minimum Terms of Developer's End-User License Agreement," Apple and Apple's subsidiaries shall be third-party beneficiaries of this End User License Agreement and - upon Your acceptance of the terms and conditions of this license agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this End User License Agreement against You as a third-party beneficiary thereof.
 
 
-## 15. INTELLECTUAL PROPERTY RIGHTS
+## 16. INTELLECTUAL PROPERTY RIGHTS
 
 Source Notify and the End-User acknowledge that, in the event of any third-party claim that the licensed Application or the End-User's possession and use of that licensed Application infringes on the third party's intellectual property rights, Source Notify, and not Apple, will be solely responsible for the investigation, defense, settlement and discharge or any such intellectual property infringement claims.
 
 
-## 16. APPLICABLE LAW
+## 17. APPLICABLE LAW
 
 This license agreement is governed by the laws of Portugal excluding its conflicts of law rules.
 
 
-## 17. MISCELLANEOUS
+## 18. MISCELLANEOUS
 
-17.1  If any of the terms of this agreement should be or become invalid, the validity of the remaining provisions shall not be affected. Invalid terms will be replaced by valid ones formulated in a way that will achieve the primary purpose.
+18.1  If any of the terms of this agreement should be or become invalid, the validity of the remaining provisions shall not be affected. Invalid terms will be replaced by valid ones formulated in a way that will achieve the primary purpose.
              
-17.2  Collateral agreements, changes and amendments are only valid if laid down in writing. The preceding clause can only be waived in writing.
+18.2  Collateral agreements, changes and amendments are only valid if laid down in writing. The preceding clause can only be waived in writing.
