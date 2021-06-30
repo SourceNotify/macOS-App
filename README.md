@@ -1,5 +1,8 @@
 ![1-Intro_SN](https://user-images.githubusercontent.com/79530012/121375062-579a1780-c938-11eb-94b4-21ec79a05d94.jpg)
 
+<a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/123959750-6ce9eb00-d9a6-11eb-9ae4-f50445f6ef91.png"></a>
+
+
 
 ## Description
 Source Notify is a software that allows you to control your Pull Request status directly from your Desktop menu bar. Built with passion specially for those who work with <b>Git Clients<b/>.
