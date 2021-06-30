@@ -1,10 +1,16 @@
-![1-Intro_SN](https://user-images.githubusercontent.com/79530012/121375062-579a1780-c938-11eb-94b4-21ec79a05d94.jpg)
+![3-Apple Marketing - 1](https://user-images.githubusercontent.com/79530012/123959909-9b67c600-d9a6-11eb-97f6-e0911c806a77.jpg)
+
+![6-Apple Marketing - 4](https://user-images.githubusercontent.com/79530012/123959935-a3c00100-d9a6-11eb-8d28-acc1d3e1aff2.jpg)
+
+![4-Apple Marketing - 2](https://user-images.githubusercontent.com/79530012/123959955-a9b5e200-d9a6-11eb-9c08-a5441bbadce0.jpg)
+
+![5-Apple Marketing - 3](https://user-images.githubusercontent.com/79530012/123959961-acb0d280-d9a6-11eb-8983-5bf8b861b7e2.jpg)
 
 <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/123959750-6ce9eb00-d9a6-11eb-9ae4-f50445f6ef91.png"></a>
 
 
 
-## Description
+## What is Source Notify
 Source Notify is a software that allows you to control your Pull Request status directly from your Desktop menu bar. Built with passion specially for those who work with <b>Git Clients<b/>.
   
   You can have connected at the same time one account for <b>Github, Gitlab and Bitbucket<b/>. Doing this and by default will fetch your <b>Personal<b/> Repositories (Public and Private) from your Repositories List. You are able to choose what repositories you want to see the Pull Requests from, you are able to choose between four options <b>Personal, Starred, Personal&Starred and Filtered</b>.
