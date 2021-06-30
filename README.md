@@ -1,3 +1,8 @@
+# Source Notify
+
+<img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0.3-green" height="40">
+<a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/123959750-6ce9eb00-d9a6-11eb-9ae4-f50445f6ef91.png"></a>
+
 ![3-Apple Marketing - 1](https://user-images.githubusercontent.com/79530012/123959909-9b67c600-d9a6-11eb-97f6-e0911c806a77.jpg)
 
 ![6-Apple Marketing - 4](https://user-images.githubusercontent.com/79530012/123959935-a3c00100-d9a6-11eb-8d28-acc1d3e1aff2.jpg)
@@ -5,9 +10,6 @@
 ![4-Apple Marketing - 2](https://user-images.githubusercontent.com/79530012/123959955-a9b5e200-d9a6-11eb-9c08-a5441bbadce0.jpg)
 
 ![5-Apple Marketing - 3](https://user-images.githubusercontent.com/79530012/123959961-acb0d280-d9a6-11eb-8983-5bf8b861b7e2.jpg)
-
-<a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/123959750-6ce9eb00-d9a6-11eb-9ae4-f50445f6ef91.png"></a>
-
 
 
 ## What is Source Notify
