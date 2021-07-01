@@ -1,15 +1,16 @@
 # Source Notify
 
-<img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> <a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.0.3"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0.3-green" height="40"></a>
+<img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> <a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.0.3"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0.3-green" height="40"><a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.0.4"> <img alt="" src="https://img.shields.io/badge/AppStoreReview-1.0.4-yellow" height="40"></a>
 <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/123959750-6ce9eb00-d9a6-11eb-9ae4-f50445f6ef91.png"></a>
+  
+  ![1-Apple Marketing - 1 0 4](https://user-images.githubusercontent.com/32193356/124115457-b9e0c680-da65-11eb-9f11-1ca8f551f166.jpg)
 
-![3-Apple Marketing - 1](https://user-images.githubusercontent.com/79530012/123959909-9b67c600-d9a6-11eb-97f6-e0911c806a77.jpg)
+  ![2-Apple Marketing - 1 0 4](https://user-images.githubusercontent.com/32193356/124115464-bcdbb700-da65-11eb-8ab2-c791f2fac17c.jpg)
+  
+  ![3-Apple Marketing - 1 0 4](https://user-images.githubusercontent.com/32193356/124115469-be0ce400-da65-11eb-8f93-2fd74030f55c.jpg)
+  
+![5-Apple Marketing - 1 0 4](https://user-images.githubusercontent.com/32193356/124115473-bf3e1100-da65-11eb-87b1-693f7b1bb827.jpg)
 
-![6-Apple Marketing - 4](https://user-images.githubusercontent.com/79530012/123959935-a3c00100-d9a6-11eb-8d28-acc1d3e1aff2.jpg)
-
-![4-Apple Marketing - 2](https://user-images.githubusercontent.com/79530012/123959955-a9b5e200-d9a6-11eb-9c08-a5441bbadce0.jpg)
-
-![5-Apple Marketing - 3](https://user-images.githubusercontent.com/79530012/123959961-acb0d280-d9a6-11eb-8983-5bf8b861b7e2.jpg)
 
 
 ## What is Source Notify
