@@ -1,6 +1,6 @@
 # Source Notify
 
-<img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> <a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.0.3"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0.3-green" height="40"><a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.0.4"> <img alt="" src="https://img.shields.io/badge/AppStoreReview-1.0.4-yellow" height="40"></a>
+<img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> <a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.0.3"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0.4-green" height="40">
 <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/123959750-6ce9eb00-d9a6-11eb-9ae4-f50445f6ef91.png"></a>
   
   ![1-Apple Marketing - 1 0 4](https://user-images.githubusercontent.com/32193356/124115457-b9e0c680-da65-11eb-9f11-1ca8f551f166.jpg)
