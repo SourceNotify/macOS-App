@@ -3,13 +3,19 @@
 <img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> <a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.0.3"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0.4-green" height="40">
 <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/123959750-6ce9eb00-d9a6-11eb-9ae4-f50445f6ef91.png"></a>
   
-  ![1-Apple Marketing - 1 0 4](https://user-images.githubusercontent.com/32193356/124115457-b9e0c680-da65-11eb-9f11-1ca8f551f166.jpg)
+  ![1-Apple Marketing](https://user-images.githubusercontent.com/32193356/125079828-f80c6480-e0bb-11eb-94dc-e94bd9c9c854.jpg)
 
-  ![2-Apple Marketing - 1 0 4](https://user-images.githubusercontent.com/32193356/124115464-bcdbb700-da65-11eb-8ab2-c791f2fac17c.jpg)
+  ![2-Apple Marketing](https://user-images.githubusercontent.com/32193356/125079843-fc388200-e0bb-11eb-86c2-49686a323f86.jpg)
   
-  ![3-Apple Marketing - 1 0 4](https://user-images.githubusercontent.com/32193356/124115469-be0ce400-da65-11eb-8f93-2fd74030f55c.jpg)
+  ![3-Apple Marketing](https://user-images.githubusercontent.com/32193356/125079849-fd69af00-e0bb-11eb-9eb2-d7a33acc1c4d.jpg)
   
-![5-Apple Marketing - 1 0 4](https://user-images.githubusercontent.com/32193356/124115473-bf3e1100-da65-11eb-87b1-693f7b1bb827.jpg)
+![5-Apple Marketing](https://user-images.githubusercontent.com/32193356/125079854-fe024580-e0bb-11eb-982c-1ff1621ed5e4.jpg)
+  
+![6-Apple Marketing](https://user-images.githubusercontent.com/32193356/125079856-fe9adc00-e0bb-11eb-90a0-60656926da54.jpg)
+  
+![7-Apple Marketing](https://user-images.githubusercontent.com/32193356/125079858-ff337280-e0bb-11eb-981c-e1125517d875.jpg)
+
+
 
 
 
@@ -28,6 +34,7 @@ Source Notify is a software that allows you to control your Pull Request status 
 |  Github | ✅ | ✅ |
 |  Gitlab | ❌ | ✅ |
 |  BitBucket | ❌ | ✅ |
+|  Self Host | ❌ | ✅ |
 |  **TIME SYNC** | - | ✅ |
 |  10min | ❌ | ✅ |
 |  30min | ❌ | ✅ |
