@@ -23,15 +23,33 @@
 
 
 ## What is Source Notify
-Source Notify is a software that allows you to control your Pull Request status directly from your Desktop menu bar. Built with passion specially for those who work with <b>Git Clients<b/>.
-  
-  You can have connected at the same time one account for <b>Github, Gitlab and Bitbucket<b/>. Doing this and by default will fetch your <b>Personal<b/> Repositories (Public and Private) from your Repositories List. You are able to choose what repositories you want to see the Pull Requests from, you are able to choose between four options <b>Personal, Starred, Personal&Starred and Filtered</b>.
-  
-  Filtered Repositories allows you to choose what Repositories yo want to fecth instead of getting all the default Repositories in the Personal/Starred list. One thing you must pay attention is that you need to have read access to that Repository, otherwise the app will show you an error and will not fetch any repositories from the clients.
+
+### Fu*****, Sh***** - This Pull Request notifications are annoying!
+
+#### Is there a better way to manage Pull Requests without hundreds of email/slack notifications?
+
+July 19th, 2021 - Leiria, Portugal - This was the big question I wanted to answer with Source Notify, The developer tool you need to manage all your pull Requests easily on your menu bar for macOS.
+
+Source Notify was developed for those who use Github, GitLab, Bitbucket or Bitbucket Servers to manage their Pull Requests. The app allows the user to manage their Pull Requests from all the git clients in one place and in the macOS menu bar showing all the necessary data the developer needs to check before going to the website.
+
+Pull Requests management was always a bit annoying to do, because after a couple of hours receiving that someone of your team commented, pushed, merged something on a Git would make you turn off the notifications or just ignore them because they are just to much. 
+From now on, this is not a problem anymore, Source Notify let’s you see if you have any comments or if you need to approve a Pull Request by simply showing you icons and the most amazing thing is that it doesn’t do any sounds to let you know you have new notifications, it simply shows a different icon on the menu bar if that is the case, and like that you check them when you have the time on your timeline.
+
+Source Notify also allows you to see the build status of your last commit! YES, you read it well, no more going to your git client website or waiting for that notification on slack saying the build passed, that is over! Source Notify shows you easily the build status on your Pull Request!
+
+Let’s imagine you are subscribed to some Repository but you don’t want to receive any notification on the Pull Requests, Source Notify lets you filter whatever Repositories are important for you to follow! No more spam for you!
+
+Source Notify comes with a free plan, where you can connect a Github account and have one filtered repository.
+
+Premium plan allows you to connect all the other clients and have some great awesome features like choosing the time between syncs, filtering unlimited repositories and much more will come in the future.
+
+You can try Premium for one week for free!
+
+
   
 
 ## Pricing Plan
-| Features  |  Free  |  $2.99/YEAR  |
+| Features  |  Free  |  $10.99/YEAR  |
 | ------------------- | ------------------- | ------------------- |
 |  CLIENT ACCOUNTS | - | ✅ |
 |  Github | ✅ | ✅ |
