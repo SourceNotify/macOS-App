@@ -28,7 +28,7 @@
 
 #### Is there a better way to manage Pull Requests without hundreds of email/slack notifications?
 
-July 19th, 2021 - Leiria, Portugal - This was the big question I wanted to answer with Source Notify, The developer tool you need to manage all your pull Requests easily on your menu bar for macOS.
+This was the big question I wanted to answer with Source Notify, The developer tool you need to manage all your pull Requests easily on your menu bar for macOS.
 
 Source Notify was developed for those who use Github, GitLab, Bitbucket or Bitbucket Servers to manage their Pull Requests. The app allows the user to manage their Pull Requests from all the git clients in one place and in the macOS menu bar showing all the necessary data the developer needs to check before going to the website.
 
