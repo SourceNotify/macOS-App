@@ -1,6 +1,6 @@
 # How to change language
 
-## Check bellow the steps to change the language of Source-Notify
+## Follow the next steps to change the language of Source-Notify
 
 ### Available languages are Portuguese(PT-PT, PT-BR), English, French and Spanish
 
