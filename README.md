@@ -1,6 +1,8 @@
 # Source Notify
 
-<a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.1.0"> <img alt="" src="https://img.shields.io/badge/AppStore-1.1.6-green" height="40"> <img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/123959750-6ce9eb00-d9a6-11eb-9ae4-f50445f6ef91.png"></a>
+<a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.1.0"> <img alt="" src="https://img.shields.io/badge/AppStore-1.1.6-green" height="40"> <img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> 
+  
+ <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/123959750-6ce9eb00-d9a6-11eb-9ae4-f50445f6ef91.png"></a>
 
 ![1-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515765-ebf75678-0142-4568-8576-e744b348b784.png)
 ![2-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515776-decf04b4-59cc-4262-8f7d-b8b012ef4c93.png)
@@ -54,6 +56,9 @@ You can try Premium for one week for free!
 |  **SUPPORTS DEVELOPMENT** | ❌ | ✅ |
   
   
+<a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/123959750-6ce9eb00-d9a6-11eb-9ae4-f50445f6ef91.png"></a>
+  
+
 ## Help
   This chapter is about explaning the icons you find in Source Notify app to allow you to quick understand what you are seeing.
 
