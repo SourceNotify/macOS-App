@@ -1,22 +1,16 @@
 # Source Notify
 
 <a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.1.0"> <img alt="" src="https://img.shields.io/badge/AppStore-1.1.6-green" height="40"> <img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/123959750-6ce9eb00-d9a6-11eb-9ae4-f50445f6ef91.png"></a>
-  
-<img width="1440" alt="1-Apple Marketing" src="https://user-images.githubusercontent.com/79530012/127032773-8401a4c6-1e26-481f-a109-e1844e74f020.png">
-  
-![6-Apple Marketing](https://user-images.githubusercontent.com/32193356/125079856-fe9adc00-e0bb-11eb-90a0-60656926da54.jpg)
 
-  ![2-Apple Marketing](https://user-images.githubusercontent.com/32193356/125079843-fc388200-e0bb-11eb-86c2-49686a323f86.jpg)
-  
-  ![3-Apple Marketing](https://user-images.githubusercontent.com/32193356/125079849-fd69af00-e0bb-11eb-9eb2-d7a33acc1c4d.jpg)
-![7-Apple Marketing](https://user-images.githubusercontent.com/32193356/125079858-ff337280-e0bb-11eb-981c-e1125517d875.jpg)
-  
-![5-Apple Marketing](https://user-images.githubusercontent.com/32193356/125079854-fe024580-e0bb-11eb-982c-1ff1621ed5e4.jpg)
+![1-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515765-ebf75678-0142-4568-8576-e744b348b784.png)
+![2-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515776-decf04b4-59cc-4262-8f7d-b8b012ef4c93.png)
+![3-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515783-17b66fc7-2760-4e0a-8b7d-e1e70c928515.png)
+![4-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515787-b4db0a7f-ea38-4d7e-9e90-e9944a958b9e.png)
+![5-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515790-75398f96-38c4-4c73-9331-e87410ee6534.png)
+![6-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515792-53983bad-3a6f-4bd4-8cc3-7d33b16fb10d.png)
 
 
 ## What is Source Notify
-
-### Fu*****, Sh***** - This Pull Request notifications are annoying!
 
 #### Is there a better way to manage Pull Requests without hundreds of email/slack notifications?
 
@@ -37,8 +31,6 @@ Premium plan allows you to connect all the other clients and have some great awe
 
 You can try Premium for one week for free!
 
-
-  
 
 ## Pricing Plan
 | Features  |  Free  |  $10.99/YEAR  |
