@@ -43,9 +43,12 @@ You can try Premium for one week for free!
 |  BitBucket | ❌ | ✅ |
 |  Self Host | ❌ | ✅ |
 |  **TIME SYNC** | - | ✅ |
+|  3min | ❌ | ✅ |
+|  5min | ❌ | ✅ |
 |  10min | ❌ | ✅ |
-|  30min | ❌ | ✅ |
-|  45min | ❌ | ✅ |
+|  15min | ✅ | ✅ |
+|  30min | ✅ | ✅ |
+|  45min | ✅ | ✅ |
 |  60min | ✅ | ✅ |
 |  Manual | ❌ | ✅ |
 |  **FILTERED REPOS** | - | ✅ |
