@@ -1,6 +1,6 @@
 # Source Notify - Streamline your Git Workflow
 
-<a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.1.0"> <img alt="" src="https://img.shields.io/badge/AppStore-1.1.9.11194-green" height="40"> <img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> 
+<a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.2.0"> <img alt="" src="https://img.shields.io/badge/AppStore-1.2.1.121001-green" height="40"> <img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> 
   
  <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/79530012/128825109-4f2c2f48-3997-4c2f-9e4a-ec8cb02d6c8b.png" width="300"></a>
 
@@ -56,6 +56,10 @@ You can try Premium for one week for free!
 |  Github | ✅ - 1 | ✅ |
 |  Gitlab | ❌ | ✅ |
 |  BitBucket | ❌ | ✅ |
+|  **Notifications** | - | ✅ |
+|  Github | ❌ | ✅ |
+|  Gitlab | ❌ | ✅ |
+|  BitBucket | ❌ | ❌ |
 |  **FUTURE FEATURES** | MAYBE | ✅ |
 |  **SUPPORTS DEVELOPMENT** | ❌ | ✅ |
   
