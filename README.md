@@ -2,15 +2,15 @@
 
 <a href="https://github.com/SourceNotify/macOS-App/releases/tag/1.2.0"> <img alt="" src="https://img.shields.io/badge/AppStore-1.2.3.123003-green" height="40"> <img alt="" src="https://img.shields.io/badge/macOS-%5E11.0-green" height="40"> 
   
- <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/32193356/133993282-6ef2f0af-38d4-40bd-852b-d2ee05794ed6.png" width="300"></a>
+ <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/32193356/133993839-c37b657f-9038-4d21-8d97-7d8be44a0ea9.png"></a>
 
+![1-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993611-a044f48c-ab6a-4e64-a562-4dbaa75fb487.png)
+![6-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993632-95042793-6c03-4e23-aec9-122be555803b.png)
+![2-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993621-22e1b773-71fa-47d4-8161-012c10013cac.png)
+![3-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993625-8481a0fc-8509-4c37-8570-bc8da3e563f9.png)
+![4-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993627-9a781605-6b4f-4f84-a5e9-4f2a31c6440d.png)
+![5-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993630-b1a5de61-767c-4209-bda4-49d4561033be.png)
 
-![1-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515765-ebf75678-0142-4568-8576-e744b348b784.png)
-![2-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515776-decf04b4-59cc-4262-8f7d-b8b012ef4c93.png)
-![3-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515783-17b66fc7-2760-4e0a-8b7d-e1e70c928515.png)
-![4-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515787-b4db0a7f-ea38-4d7e-9e90-e9944a958b9e.png)
-![5-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515790-75398f96-38c4-4c73-9331-e87410ee6534.png)
-![6-Apple Marketing](https://user-images.githubusercontent.com/79530012/127515792-53983bad-3a6f-4bd4-8cc3-7d33b16fb10d.png)
 
 
 ## What is Source Notify
