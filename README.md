@@ -9,8 +9,7 @@
 ![2-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993621-22e1b773-71fa-47d4-8161-012c10013cac.png)
 ![3-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993625-8481a0fc-8509-4c37-8570-bc8da3e563f9.png)
 ![4-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993627-9a781605-6b4f-4f84-a5e9-4f2a31c6440d.png)
-![5-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993630-b1a5de61-767c-4209-bda4-49d4561033be.png)
-
+![5-Apple Marketing](https://user-images.githubusercontent.com/32193356/133994394-9da1a02d-3b29-44e1-a79f-77a95253c39d.png)
 
 
 ## What is Source Notify
