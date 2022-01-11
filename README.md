@@ -4,12 +4,14 @@
   
  <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/32193356/133993839-c37b657f-9038-4d21-8d97-7d8be44a0ea9.png"></a>
 
-![1-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993611-a044f48c-ab6a-4e64-a562-4dbaa75fb487.png)
-![6-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993632-95042793-6c03-4e23-aec9-122be555803b.png)
+![1-Apple Marketing](https://user-images.githubusercontent.com/32193356/148983081-cdd7d8f5-feb2-487c-a26c-cd06887b97c7.png)
+![6-Apple Marketing](https://user-images.githubusercontent.com/32193356/148982991-07a3e672-205d-4a63-9af3-f493acae1d51.png)
 ![2-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993621-22e1b773-71fa-47d4-8161-012c10013cac.png)
 ![3-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993625-8481a0fc-8509-4c37-8570-bc8da3e563f9.png)
 ![4-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993627-9a781605-6b4f-4f84-a5e9-4f2a31c6440d.png)
-![5-Apple Marketing](https://user-images.githubusercontent.com/32193356/133994394-9da1a02d-3b29-44e1-a79f-77a95253c39d.png)
+![5-Apple Marketing](https://user-images.githubusercontent.com/32193356/148983135-a49de528-866e-4e43-9a78-4a06ab834e4c.png)
+
+  
 
 
 ## What is Source Notify
