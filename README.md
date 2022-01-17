@@ -7,12 +7,14 @@
   
  <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://user-images.githubusercontent.com/32193356/133993839-c37b657f-9038-4d21-8d97-7d8be44a0ea9.png"></a>
 
-![1-Apple Marketing](https://user-images.githubusercontent.com/32193356/148983081-cdd7d8f5-feb2-487c-a26c-cd06887b97c7.png)
+![7-Apple Marketing](https://user-images.githubusercontent.com/32193356/149768395-ea241194-4579-47ab-8786-429d83ad2c28.png)
+![1-Apple Marketing](https://user-images.githubusercontent.com/32193356/149768336-4ebe5de1-5433-4cac-8508-b9069772571f.png)
 ![6-Apple Marketing](https://user-images.githubusercontent.com/32193356/148982991-07a3e672-205d-4a63-9af3-f493acae1d51.png)
 ![2-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993621-22e1b773-71fa-47d4-8161-012c10013cac.png)
 ![3-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993625-8481a0fc-8509-4c37-8570-bc8da3e563f9.png)
 ![4-Apple Marketing](https://user-images.githubusercontent.com/32193356/133993627-9a781605-6b4f-4f84-a5e9-4f2a31c6440d.png)
-![5-Apple Marketing](https://user-images.githubusercontent.com/32193356/148983135-a49de528-866e-4e43-9a78-4a06ab834e4c.png)
+![5-Apple Marketing](https://user-images.githubusercontent.com/32193356/149768382-26ac88a6-4098-4175-9865-1cfb27cbb087.png)
+
 
   
 
