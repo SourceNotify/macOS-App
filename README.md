@@ -1,6 +1,6 @@
 # Source Notify - Streamline your Git Workflow
 
-<a href="https://github.com/SourceNotify/macOS-App/files/7918454/SourceNotify.zip"><img alt="" src="https://img.shields.io/badge/DirectLink-1.3.4.2022011802-green" height="40"></a>
+<a href="https://github.com/SourceNotify/macOS-App/files/7918454/SourceNotify.zip"><img alt="" src="https://img.shields.io/badge/DirectLink-1.3.4.2022011803-green" height="40"></a>
  <a href="https://apps.apple.com/us/app/source-notify/id1570433591"><img alt="" src="https://img.shields.io/badge/AppStore-1.3.3.130005-green" height="40"> <img alt="" src="https://img.shields.io/badge/macOS-%5E10.15-green" height="40"></a>
   
   ### <a href="https://github.com/SourceNotify/macOS-App/files/7918454/SourceNotify.zip">Direct Link Download</a>
