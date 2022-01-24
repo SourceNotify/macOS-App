@@ -43,7 +43,7 @@ You can try Premium for one week for free!
 
 
 ## Pricing Plan
-| Features  |  Free  |  $6.99/YEAR  |
+| Features  |  Free  | €24.99  |
 | ------------------- | ------------------- | ------------------- |
 |  CLIENT ACCOUNTS | - | ✅ |
 |  Github | ✅ | ✅ |
