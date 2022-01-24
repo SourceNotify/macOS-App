@@ -60,13 +60,9 @@ You can try Premium for one week for free!
 |  60min | ✅ | ✅ |
 |  Manual | ❌ | ✅ |
 |  **FILTERED REPOS** | - | ✅ |
-|  Github | ✅ - 1 | ✅ |
+|  Github | ✅ | ✅ |
 |  Gitlab | ❌ | ✅ |
 |  BitBucket | ❌ | ✅ |
-|  **Notifications** | - | ✅ |
-|  Github | ❌ | ✅ |
-|  Gitlab | ❌ | ✅ |
-|  BitBucket | ❌ | ❌ |
 |  **FUTURE FEATURES** | MAYBE | ✅ |
 |  **SUPPORTS DEVELOPMENT** | ❌ | ✅ |
   
